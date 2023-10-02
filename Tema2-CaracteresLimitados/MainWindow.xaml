@@ -7,7 +7,7 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
     <Grid>
-        <TextBox x:Name="texto" HorizontalAlignment="Left" AcceptsReturn="True" VerticalScrollBarVisibility="Auto" Margin="10,10,0,0" MaxLength="140"  TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="662" Height="324" TextChanged="Texto_TextChanged"/>
+        <TextBox x:Name="texto" HorizontalAlignment="Left" AcceptsReturn="True" VerticalScrollBarVisibility="Auto" Margin="10,10,0,0" MaxLength="140"  TextWrapping="Wrap" Text="1" VerticalAlignment="Top" Width="662" Height="324" TextChanged="Texto_TextChanged"/>
 
     </Grid>
 </Window>
